@@ -22,8 +22,6 @@ jobs:
           plugin_isocalendar: yes
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_activity: yes
-          plugin_activity_limit: 5
           plugin_repositories: yes
           plugin_repositories_pinned: |
             tom8hawk/TelegramBridge
